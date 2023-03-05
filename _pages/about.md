@@ -41,7 +41,7 @@ Other
 ======
 * **RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool**  
 <ins>**Minghao Lin**</ins>, Minghang Shen, Chaoyang Lin, Fan Qi.  
-Black Hat Asia
+Black Hat Asia 2023
 
 Honer&Award
 ======
