@@ -9,10 +9,10 @@ redirect_from:
 ---
 
 I am currently a visiting scholar at the University of Colorado Boulder, advised by [Prof Yueqi Chen](http://www.personal.psu.edu/yxc431/).
-And I am also a prospective PhD student in 2023 fall. I received my bachelor's degree from Jiangxi Normal University in 2022. At Jiangxi Normal University, I created the CTF security team [风信子信息安全工作室](https://www.jxnusec.cn/) which has become the top-tier CTF university team in China.  
-
-
-My research interest focuss on software security and system security as well as designing novelty automatic approach to detect more vulnerabilities.  
+Meanwhile, I am also a prospective PhD student in 2023 fall. I received my bachelor's degree from Jiangxi Normal University in 2022.  
+My research interests focus on Software Security and System security as well as designing novelty automatic approaches to detect more vulnerabilities.  
+By the way. I'm a CTF Enthusiast. I am a member of the [thehackerscrew](https://www.thehackerscrew.team/) which is the highest ranked team in 2023 thus far. I like solving challenges about reverse engineering and exploitation in CTF contests.
+At Jiangxi Normal University, I created the CTF security team [风信子信息安全工作室](https://www.jxnusec.cn/) which has become the top-tier CTF university team in China.  
 
 Work experience
 ======
