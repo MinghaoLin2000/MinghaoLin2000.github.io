@@ -17,15 +17,15 @@ Work experience
 2023 - NOW, Visiting Scholar  
 
 * NIO Embed&Mobile, China  
-1/1 2022 - 1/1 2023, Security Engineer Full Time
+  1/1 2022 - 1/1 2023, Security Engineer Full Time
 
-* Tencent Game Security, China
+* Tencent Game Security, China  
 1/9 2021 - 1/1 2022, Security Engineer Intern
 
-* Tencent Xuanwu Lab, China
+* Tencent Xuanwu Lab, China  
 1/5 2021 - 1/9 2021, Mobile Security Researcher Intern
 
-* Tencent Keen Lab, China
+* Tencent Keen Lab, China  
 1/2 2021 - 1/5 2021, Reverse Engineer Intern
  
 Publication
