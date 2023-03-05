@@ -32,14 +32,14 @@ Work experience
 Publication
 ======
 (* Co-first author)
-* **[NDSS 2023] CLExtract: Recovering Highly Corrupted DVB/GSE Satellite Stream with Contrastive Learning**
+* **[NDSS 2023] CLExtract: Recovering Highly Corrupted DVB/GSE Satellite Stream with Contrastive Learning**  
 <ins>**Minghao Lin**</ins>, Minghao Cheng, Dongsheng Luo, Yueqi Chen.  
 Workshop on the Security of Space and Satellite Systems (SpaceSec) 2023
 
 
 Other
 ======
-* **RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool**
+* **RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool**  
 <ins>**Minghao Lin**</ins>, Minghang Shen, Chaoyang Lin, Fan Qi.  
 Black Hat Asia
 
