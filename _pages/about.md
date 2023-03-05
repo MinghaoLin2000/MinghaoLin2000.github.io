@@ -46,7 +46,7 @@ Honer&Award
 ======
 * 2023 DataCon Big Data IOT Security Track, 2st(¥10000)
 * 2022 Tencent Game Security CTF Final, 6th
-* 2021 National Industrial Internet CTF Student Group, 1st
-* 2021 Jiangxi Industrial Internet Provincial CTF, 1st 
-* 2021 Jiangxi College Student Network Security Competition, 1st
+* 2021 National Industrial Internet CTF Student Group, 1st(¥30000)
+* 2021 Jiangxi Industrial Internet Provincial CTF, 1st(¥20000)
+* 2021 Jiangxi College Student Network Security Competition, 1st(¥5000）
 * 2021 Kanxue CTF Spring Competition Singles, 10th (out of 2390)
