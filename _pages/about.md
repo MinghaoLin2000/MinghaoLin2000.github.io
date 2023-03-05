@@ -13,12 +13,21 @@ And I am also a perspective Phd student 2023 fall. I received my bachelor degree
 
 Work experience
 ======
-* Southern University of Science and Technology, China   
-Summer 2019, Research Assistant  
+* The University of Colorado Boulder, US  
+2023 - NOW, Visiting Scholar  
 
-* Huawei Noah's Ark Lab, China  
-Summer 2018, Software Engineer Internship  
+* NIO Embed&Mobile, China  
+1/1 2022 - 1/1 2023, Security Engineer Full Time
 
+* Tencent Game Security, China
+1/9 2021 - 1/1 2022, Security Engineer Intern
+
+* Tencent Xuanwu Lab, China
+1/5 2021 - 1/9 2021, Mobile Security Researcher Intern
+
+* Tencent Keen Lab, China
+1/2 2021 - 1/5 2021, Reverse Engineer Intern
+ 
 Publication
 ======
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
