@@ -36,11 +36,15 @@ Publication
 Workshop on the Security of Space and Satellite Systems (SpaceSec) 2023
 
 
-Other
+Other Publications
 ======
 * **RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool**  
 <ins>**Minghao Lin**</ins>, Minghang Shen, Chaoyang Lin, Fan Qi.  
 Black Hat Asia 2023
+
+* **Kill Latest MPU-based Protections in Just One Shot: Targeting All Commodity RTOSes**  
+<ins>**Minghao Lin**</ins>, Zicheng Wang, Jiahe Wang, Chaoyang Lin, Minghang Shen, Yueqi Chen.  
+Black Hat USA 2023
 
 Honer&Award
 ======
