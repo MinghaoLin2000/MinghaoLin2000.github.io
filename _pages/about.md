@@ -15,19 +15,19 @@ My research interests focus on Software Security and embedded System security as
 Work experience
 ======
 * The University of Colorado Boulder, US  
-2023 - NOW, Visiting Scholar  
+1 January 2023 - 15 August, Visiting Scholar  
 
 * NIO Embed&Mobile, China  
-  1/1 2022 - 1/1 2023, Security Engineer Full Time
+1 January 2022 - 1 January 2023, Security Engineer Full Time
 
 * Tencent Game Security, China  
-1/9 2021 - 1/1 2022, Security Engineer Intern
+1 September 2021 - 1 January 2022, Security Engineer Intern
 
 * Tencent Xuanwu Lab, China  
-1/5 2021 - 1/9 2021, Mobile Security Researcher Intern
+1 May 2021 - 1 September 2021, Mobile Security Researcher Intern
 
 * Tencent Keen Lab, China  
-1/2 2021 - 1/5 2021, Reverse Engineer Intern
+1 February 2021 - 1 May 2021, Reverse Engineer Intern
  
 Publication
 ======
@@ -44,11 +44,12 @@ Black Hat USA 2023 Briefing
 
 * **An End-to-End Tool Decoding Highly Corrupted Satellite Stream from Eavesdropping**  
 <ins>**Minghao Lin**</ins>, Minghao Cheng, Xu Zheng, Dongsheng Luo, Yueqi Chen.
+
 Black Hat USA 2023 Arsenal
 
 * **RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool**  
 <ins>**Minghao Lin**</ins>, Minghang Shen, Chaoyang Lin, Fan Qi.  
-Black Hat Asia 2023
+Black Hat Asia 2023 Arsenal
 
 
 
