@@ -38,13 +38,21 @@ Workshop on the Security of Space and Satellite Systems (SpaceSec) 2023
 
 Other Publications
 ======
+* **Kill Latest MPU-based Protections in Just One Shot: Targeting All Commodity RTOSes**  
+<ins>**Minghao Lin**</ins>, Zicheng Wang, Jiahe Wang, Chaoyang Lin, Minghang Shen, Yueqi Chen.  
+Black Hat USA 2023 Briefing
+
+* **An End-to-End Tool Decoding Highly Corrupted Satellite Stream from Eavesdropping**  
+<ins>**Minghao Lin**</ins>, Minghao Cheng, Xu Zheng, Dongsheng Luo, Yueqi Chen.
+Black Hat USA 2023 Arsenal
+
 * **RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool**  
 <ins>**Minghao Lin**</ins>, Minghang Shen, Chaoyang Lin, Fan Qi.  
 Black Hat Asia 2023
 
-* **Kill Latest MPU-based Protections in Just One Shot: Targeting All Commodity RTOSes**  
-<ins>**Minghao Lin**</ins>, Zicheng Wang, Jiahe Wang, Chaoyang Lin, Minghang Shen, Yueqi Chen.  
-Black Hat USA 2023
+
+
+
 
 Honer&Award
 ======
