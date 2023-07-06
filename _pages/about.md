@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a visiting scholar at the University of Colorado Boulder, advised by [Prof Yueqi Chen](http://www.personal.psu.edu/yxc431/). Meanwhile, I am also a prospective PhD student in 2023 fall. I received my bachelor's degree from Jiangxi Normal University in 2022. I'm a CTF Enthusiast. I like solving challenges about reverse engineering and exploitation in CTF contests. At Jiangxi Normal University, I created the CTF security team [风信子信息安全工作室](https://www.jxnusec.cn/) which has become the top-tier CTF university team in China.    
-My research interests focus on Software Security and embedded System security as well as designing novelty automatic approaches to detect more vulnerabilities of complex systems.  
+I am a Ph.D. student at the University of Colorado Boulder, advised by [Prof Yueqi Chen](http://www.personal.psu.edu/yxc431/). I received my bachelor's degree from Jiangxi Normal University in 2022. And I'm a CTF Enthusiast. I like solving challenges about reverse engineering and exploitation in CTF contests. At Jiangxi Normal University, I created the CTF security team [风信子信息安全工作室](https://www.jxnusec.cn/) which has become the top-tier CTF university team in China.    
+My research interests focus on software security and system security.
 
 
 Work experience
@@ -43,8 +43,7 @@ Other Publications
 Black Hat USA 2023 Briefing
 
 * **An End-to-End Tool Decoding Highly Corrupted Satellite Stream from Eavesdropping**  
-<ins>**Minghao Lin**</ins>, Minghao Cheng, Xu Zheng, Dongsheng Luo, Yueqi Chen.
-
+<ins>**Minghao Lin**</ins>, Minghao Cheng, Xu Zheng, Dongsheng Luo, Yueqi Chen.  
 Black Hat USA 2023 Arsenal
 
 * **RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool**  
