@@ -14,7 +14,7 @@ My research interests focus on software security and system security. <ins>**I a
 Work experience
 ======
 * The Zhejiang University  
-1 May 2023 - Now, Research assistant advised by Prof Mingxue Zhang
+1 May 2023 - Now, Research assistant advised by Prof [Prof Mingxue Zhang](https://zhangmx1997.github.io/)
 
 * The University of Colorado Boulder, US  
 1 January 2023 - 15 August, Visiting Scholar  
