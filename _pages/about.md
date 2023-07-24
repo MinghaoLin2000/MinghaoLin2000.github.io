@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student at the University of Colorado Boulder, advised by [Prof Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/). I received my bachelor's degree from Jiangxi Normal University in 2022. And I'm a CTF Enthusiast. I like solving challenges about reverse engineering and exploitation in CTF contests. At Jiangxi Normal University, I created the CTF security team [风信子信息安全工作室](https://www.jxnusec.cn/) which has become the top-tier CTF university team in China.    
+I am a visiting scholar at the University of Colorado Boulder, advised by [Prof Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/). I received my bachelor's degree from Jiangxi Normal University in 2022. And I'm a CTF Enthusiast. I like solving challenges about reverse engineering and exploitation in CTF contests. At Jiangxi Normal University, I created the CTF security team [风信子信息安全工作室](https://www.jxnusec.cn/) which has become the top-tier CTF university team in China.    
 My research interests focus on software security and system security.
 
 
 Work experience
 ======
+* The Zhejiang University  
+1 May 2023 - Now, Research assistant advised by Prof Mingxue Zhang
+
 * The University of Colorado Boulder, US  
 1 January 2023 - 15 August, Visiting Scholar  
 
