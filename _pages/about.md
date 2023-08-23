@@ -14,7 +14,7 @@ My research interests focus on software security and system security. <ins>**I a
 Work experience
 ======
 * The University of Colorado Boulder, US  
-1 January 2023 - 15 August, Visiting Scholar  
+1 January 2023 - Now, Visiting Scholar  
 
 * NIO Embed&Mobile, China  
 1 January 2022 - 1 January 2023, Security Engineer Full Time
