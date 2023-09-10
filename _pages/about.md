@@ -19,14 +19,8 @@ Work experience
 * NIO Embed&Mobile, China  
 1 January 2022 - 1 January 2023, Security Engineer Full Time
 
-* Tencent Game Security, China  
-1 September 2021 - 1 January 2022, Security Engineer Intern
-
-* Tencent Xuanwu Lab, China  
-1 May 2021 - 1 September 2021, Mobile Security Researcher Intern
-
-* Tencent Keen Lab, China  
-1 February 2021 - 1 May 2021, Reverse Engineer Intern
+* Tencent Xuanwu Lab&Keen Lab, China  
+1 February 2021 - 1 September 2021, Mobile Security Researcher Intern
  
 Publication
 ======
