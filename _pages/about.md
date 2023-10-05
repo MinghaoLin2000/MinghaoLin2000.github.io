@@ -39,12 +39,10 @@ Black Hat USA 2023 Briefing
 * **An End-to-End Tool Decoding Highly Corrupted Satellite Stream from Eavesdropping**  
 <ins>**Minghao Lin**</ins>, Minghao Cheng, Xu Zheng, Dongsheng Luo, Yueqi Chen.  
 Black Hat USA 2023 Arsenal
-
-* **RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool**  
-<ins>**Minghao Lin**</ins>, Minghang Shen, Chaoyang Lin, Fan Qi.  
-Black Hat Asia 2023 Arsenal
-
-
+<!--
+;RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool
+Minghao Lin, Minghang Shen, Chaoyang Lin, Fan Qi.  
+Black Hat Asia 2023 Arsenal -->
 
 
 
