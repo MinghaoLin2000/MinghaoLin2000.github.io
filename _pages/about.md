@@ -27,18 +27,21 @@ Publication
 ======
 * **CLExtract: Recovering Highly Corrupted DVB/GSE Satellite Stream with Contrastive Learning**  
 <ins>**Minghao Lin**</ins>, Minghao Cheng, Dongsheng Luo, Yueqi Chen.  
-Workshop on the Security of Space and Satellite Systems (SpaceSec) 2023
-
+Workshop on the Security of Space and Satellite Systems (SpaceSec) 2023  
+[<a href="https://www.ndss-symposium.org/wp-content/uploads/2023/06/spacesec2023-236868-paper.pdf">Paper</a>]
 
 Other Publications
 ======
 * **Kill Latest MPU-based Protections in Just One Shot: Targeting All Commodity RTOSes**  
 <ins>**Minghao Lin**</ins>, Zicheng Wang, Jiahe Wang, Chaoyang Lin, Minghang Shen, Yueqi Chen.  
-Black Hat USA 2023 Briefing
+Black Hat USA 2023 Briefing  
+[<a href="https://i.blackhat.com/BH-US-23/Presentations/US-23-Lin-Briefing-Kill-Latest-MPU-based-Protections.pdf?_gl=1*1cs6qub*_gcl_au*MjA3MDY4MjMyLjE2OTE2ODM4NDE.*_ga*NTg2NTAwNjU3LjE2ODM4OTk2NDA.*_ga_K4JK67TFYV*MTY5NjgyMzU0OC43Ni4xLjE2OTY4MjM1NTQuMC4wLjA.&_ga=2.52687208.1571568018.1696823549-586500657.1683899640">Slides</a>]
 
 * **An End-to-End Tool Decoding Highly Corrupted Satellite Stream from Eavesdropping**  
 <ins>**Minghao Lin**</ins>, Minghao Cheng, Xu Zheng, Dongsheng Luo, Yueqi Chen.  
-Black Hat USA 2023 Arsenal
+Black Hat USA 2023 Arsenal  
+[<a href="https://www.blackhat.com/us-23/arsenal/schedule/#clextract-an-end-to-end-tool-decoding-highly-corrupted-satellite-stream-from-eavesdropping-31622">Slides</a>]
+
 <!--
 ;RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool
 Minghao Lin, Minghang Shen, Chaoyang Lin, Fan Qi.  
