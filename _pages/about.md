@@ -18,7 +18,7 @@ Experience
 
 * The University of Colorado Boulder, US  
 Advisor: [Prof Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/)  
-1 January 2023 - 15 August 2023, Visiting Scholar Full Time
+1 October 2022 - 15 August 2023, Remote intern && Visiting Scholar Full Time 
 
 * NIO Embed&Mobile, China  
 1 January 2022 - 1 January 2023, Security Engineer Full Time
