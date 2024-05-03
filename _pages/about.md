@@ -60,5 +60,5 @@ Honer&Award
 * 2022 Tencent Game Reverse Security CTF Final, 6th
 * 2021 National Industrial Internet CTF Student Group, 1st(¥30000)
 * 2021 Jiangxi Industrial Internet Provincial CTF, 1st(¥20000)
-* 2021 Jiangxi College Student Network Security Competition, 1st(¥5000）
+* 2021 Jiangxi College Student Network Security Competition, 1st（¥5000）
 * 2021 Kanxue CTF Spring Competition Singles, 10th (out of 2390)
