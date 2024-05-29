@@ -55,7 +55,7 @@ Black Hat Asia 2023 Arsenal -->
 
 Honer&Award as a core member
 ======
-* [2024 Geekcon AVSS Contest International Final](https://geekctf.geekcon.top/), 1st ($3000)
+* [2024 Geekcon AVSS Contest International Final](https://avss.geekcon.top/), 1st ($3000)
 * [2023 DataCon Big Data Vulnerability Analysis Track](https://mp.weixin.qq.com/s/p4BPKW1geduZtYRyDp593Q), 2st(¥30000)
 * 2022 DataCon Big Data IOT Security Track Online, 1st(¥10000)
 * 2022 Tencent Game Reverse Security CTF Final, 6th
