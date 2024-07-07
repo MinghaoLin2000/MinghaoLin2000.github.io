@@ -50,7 +50,7 @@ Black Hat USA 2023 Arsenal
 [<a href="https://www.blackhat.com/us-23/arsenal/schedule/#clextract-an-end-to-end-tool-decoding-highly-corrupted-satellite-stream-from-eavesdropping-31622">Slides</a>]
 
 * **RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool**  
-Minghang Shen, Chaoyang Lin, <ins>**Minghao Lin**</ins>, Qi Fan.
+Minghang Shen, Chaoyang Lin, <ins>**Minghao Lin**</ins>, Qi Fan.  
 Black Hat Asia 2022 Arsenal.
 
 <!--
