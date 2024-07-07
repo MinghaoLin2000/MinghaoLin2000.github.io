@@ -23,6 +23,9 @@ Advisor: [Prof Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/)
 * NIO Embed&Mobile, China  
 1 January 2022 - 1 January 2023, Security Engineer Full Time
 
+* Tencent Game Security, China  
+1 October 2021 - 1 January 2022, Reverse Engineer Intern
+
 * Tencent Xuanwu Lab&Keen Lab, China  
 1 February 2021 - 1 September 2021, Mobile Security Researcher Intern
  
@@ -45,6 +48,10 @@ Black Hat USA 2023 Briefing
 <ins>**Minghao Lin**</ins>, Minghao Cheng, Xu Zheng, Dongsheng Luo, Yueqi Chen.  
 Black Hat USA 2023 Arsenal  
 [<a href="https://www.blackhat.com/us-23/arsenal/schedule/#clextract-an-end-to-end-tool-decoding-highly-corrupted-satellite-stream-from-eavesdropping-31622">Slides</a>]
+
+* **RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool**  
+Minghang Shen, Chaoyang Lin, <ins>**Minghao Lin**</ins>, Qi Fan.
+Black Hat Asia 2022 Arsenal.
 
 <!--
 ;RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool
