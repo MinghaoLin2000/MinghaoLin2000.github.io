@@ -29,14 +29,14 @@ Advisor: [Prof Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/)
 * Tencent Xuanwu Lab&Keen Lab, China  
 1 February 2021 - 1 September 2021, Mobile Security Researcher Intern
  
-Publication
+Academic Publication
 ======
 * **CLExtract: Recovering Highly Corrupted DVB/GSE Satellite Stream with Contrastive Learning**  
 <ins>**Minghao Lin**</ins>, Minghao Cheng, Dongsheng Luo, Yueqi Chen.  
 Workshop on the Security of Space and Satellite Systems (SpaceSec) 2023  
 [<a href="https://www.ndss-symposium.org/wp-content/uploads/2023/06/spacesec2023-236868-paper.pdf">Paper</a>]
 
-Other Publications
+Industrial Publications
 ======
 * **Kill Latest MPU-based Protections in Just One Shot: Targeting All Commodity RTOSes**  
 <ins>**Minghao Lin**</ins>, Zicheng Wang, Jiahe Wang, Chaoyang Lin, Minghang Shen, Yueqi Chen.  
