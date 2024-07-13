@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a research assistant at Zhejiang University, advised by [Prof Wenbo Shen](https://wenboshen.org/). I received my bachelor's degree from Jiangxi Normal University in 2022. And I'm a CTF Enthusiast. I like solving challenges about reverse engineering and exploitation in CTF contests. At Jiangxi Normal University, I created the CTF security team [风信子信息安全工作室](https://www.jxnusec.cn/) which is becoming the top-tier CTF university team in China.    
-My research interests focus on software security and system security. <ins>**I am applying for a PhD position!**<ins>  
+My research interests focus on system security and software security. <ins>**I am applying for a PhD position!**<ins>  
 
 Experience
 ======
