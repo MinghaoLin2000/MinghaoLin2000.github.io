@@ -64,7 +64,7 @@ Honer&Award as a core member
 ======
 * [2024 Geekcon AVSS Contest International Final](https://avss.geekcon.top/), 1st($3000)
 * [2023 DataCon Big Data Vulnerability Analysis Track](https://mp.weixin.qq.com/s/p4BPKW1geduZtYRyDp593Q), 2st(¥30000)
-* 2022 DataCon Big Data IOT Security Track Online, 1st (¥10000)
+* 2022 DataCon Big Data IOT Security Track Online, 1st(¥10000)
 * 2022 Tencent Game Reverse Security CTF Final, 6th
 * 2021 National Industrial Internet CTF Student Group, 1st(¥30000)
 * 2021 Jiangxi Industrial Internet Provincial CTF, 1st (¥20000)
