@@ -51,7 +51,7 @@ Black Hat USA 2023 Arsenal
 
 * **RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool**  
 Minghang Shen, Chaoyang Lin, <ins>**Minghao Lin**</ins>, Qi Fan.  
-Black Hat Asia 2022 Arsenal.
+Black Hat Asia 2023 Arsenal.
 
 <!--
 ;RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool
