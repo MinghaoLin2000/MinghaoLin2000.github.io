@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Minghao Lin"
-  avatar           : "profile.png"
+  avatar           : "../images/geekcon.jpg"
   bio              : ""
   location         : "China"
   employer         :
