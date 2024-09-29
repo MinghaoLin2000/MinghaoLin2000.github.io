@@ -61,12 +61,12 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 }
 
 @online{GitHub:Marked,
-  author = {Minghao Lin and Minghao Cheng and Dongsheng Luo and Yueqi Chen},
+  author = {\textbf{Minghao Lin} and Minghao Cheng and Dongsheng Luo and Yueqi Chen},
   title = {CLExtract: Recovering Highly Corrupted DVB/GSE Satellite Stream with Contrastive Learning},
 
   biosite_url = {https://www.ndss-symposium.org/ndss-paper/auto-draft-409/},
   biosite_venue = {2023 Workshop on the Security of Space and Satellite Systems (SpaceSec)},
-  biosite_demo = {https://marked.js.org/demo/},
+  biosite_demo = {#},
 }
 
 @online{GitHub:KaTeX,
