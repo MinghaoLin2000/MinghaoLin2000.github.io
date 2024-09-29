@@ -79,6 +79,38 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 }
 
 ```
+## Industrial Publications
+```blog-bib
+@online{GitHub:BibTeXTS,
+  author = {Minghao Lin and Zicheng Wang and Jiahe Wang and Chaoyang Lin and Minghang Shen and Yueqi Chen},
+  title = {Kill Latest MPU-based Protections in Just One Shot: Targeting All Commodity RTOSes},
+
+  biosite_url = {https://www.blackhat.com/us-23/briefings/schedule/#kill-latest-mpu-based-protections-in-just-one-shot-targeting-all-commodity-rtoses-32733},
+  biosite_venue = {2023 BlackHat USA Briefing},
+  biosite_slides = {https://i.blackhat.com/BH-US-23/Presentations/US-23-Lin-Briefing-Kill-Latest-MPU-based-Protections.pdf},
+  biosite_code = {https://github.com/MinghaoLin2000/TrampolineFuncAnalyzer4FreeRTOS}
+  
+}
+
+@online{GitHub:Marked,
+  author = {\textbf{Minghao Lin} and Minghao Cheng and Dongsheng Luo and Yueqi Chen},
+  title = {CLExtract: Recovering Highly Corrupted DVB/GSE Satellite Stream with Contrastive Learning},
+
+  biosite_url = {https://www.ndss-symposium.org/ndss-paper/auto-draft-409/},
+  biosite_venue = {2023 Workshop on the Security of Space and Satellite Systems (SpaceSec)},
+  biosite_slides = {#},
+}
+
+@online{GitHub:KaTeX,
+  author = {Khan Academy and others},
+  title = "{{\KaTeX}}: Fast Math Typesetting for the Web",
+
+  biosite_url = {https://github.com/KaTeX/KaTeX},
+  biosite_venue = {GitHub},
+  biosite_demo = {https://katex.org/},
+}
+
+```
 
 ## Accessibility Examples
 
