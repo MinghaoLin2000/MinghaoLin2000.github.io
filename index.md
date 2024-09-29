@@ -52,7 +52,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 }
 * represents equal contribution/co-first author.
 @online{GitHub:BibTeXTS,
-  author = {Jiaxun Zhu*, Minghao Lin*, Tingting Yin, Zechao Cai, Yu Wang, Rui Chang, Wenbo Shen},
+  author = {Jiaxun Zhu\*, Minghao Lin\*, Tingting Yin, Zechao Cai, Yu Wang, Rui Chang, Wenbo Shen},
   title = {CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon},
 
   biosite_url = {},
