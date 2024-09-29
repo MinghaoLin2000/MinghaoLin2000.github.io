@@ -38,6 +38,7 @@ eml.removeAttribute('class');
 [bio]-->
 
 ## Academic Publications
+$\underline{*\ indicates\ equal\ contribution}$
 ```blog-bib
 
 @comment
