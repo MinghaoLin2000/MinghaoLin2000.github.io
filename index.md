@@ -17,6 +17,7 @@
 
 I was a research assistant at Zhejiang University, advised by [Prof. Wenbo Shen](https://wenboshen.org/). Prior to this, I was a visiting scholar at the University of Colorado Boulder, advised by [Prof. Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/). I obtained my bachelor’s degree from Jiangxi Normal University at 2022.
 During university, I founded the [Hyacinth Information Security Studio (JXNUSEC)](https://www.jxnusec.cn/index.html) to encourage more undergraduate and graduate students to engage in the field of cybersecurity.  
+
 I can be reached at yenkoclike@gmail.com.
 
 ```bio-remove
