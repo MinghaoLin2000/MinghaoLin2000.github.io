@@ -38,9 +38,11 @@ eml.removeAttribute('class');
 [bio]-->
 
 ## Experiences
-2023 9 1 - 2024 6 15 Research Assistant, advised by Prof. Wenbo Shen   
-2023 1 15 - 2023 8 15 Visiting Scholar, advised by Prof. Yueqi Chen
-2022 1 10 - 2023 1 10 Security Engineer at NIO
+2023.09 - 2024.06 Research Assistant, The Zhejiang University, advised by Prof. Wenbo Shen   
+2023.01 - 2023.08 Visiting Scholar, The University of Colorado Boulder, advised by Prof. Yueqi Chen  
+2022.01 - 2023.10 Security Engineer, NIO Inc, Full time.   
+2021.10 – 2022.01 Reverse Engineer, Game Security, Tencent Inc, Intern  
+2021.02 – 2021.09 Mobile Security Researcher, Xuanwu Lab and Keen Lab, Tencent Inc, Intern
 
 
 ## Academic Publications
