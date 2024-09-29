@@ -87,17 +87,18 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 
   biosite_url = {https://www.blackhat.com/us-23/briefings/schedule/#kill-latest-mpu-based-protections-in-just-one-shot-targeting-all-commodity-rtoses-32733},
   biosite_venue = {2023 BlackHat USA Briefing},
+  biosite_demo = {https://github.com/MinghaoLin2000/TrampolineFuncAnalyzer4FreeRTOS},
   biosite_slides = {https://i.blackhat.com/BH-US-23/Presentations/US-23-Lin-Briefing-Kill-Latest-MPU-based-Protections.pdf},
-  biosite_code = {https://github.com/MinghaoLin2000/TrampolineFuncAnalyzer4FreeRTOS}
+  
   
 }
 
 @online{GitHub:Marked,
   author = {\textbf{Minghao Lin} and Minghao Cheng and Dongsheng Luo and Yueqi Chen},
-  title = {CLExtract: Recovering Highly Corrupted DVB/GSE Satellite Stream with Contrastive Learning},
+  title = {An End-to-End Tool Decoding Highly Corrupted Satellite Stream from Eavesdropping},
 
-  biosite_url = {https://www.ndss-symposium.org/ndss-paper/auto-draft-409/},
-  biosite_venue = {2023 Workshop on the Security of Space and Satellite Systems (SpaceSec)},
+  biosite_url = {https://www.blackhat.com/us-23/arsenal/schedule/#clextract-an-end-to-end-tool-decoding-highly-corrupted-satellite-stream-from-eavesdropping-31622},
+  biosite_venue = {2023 BlackHat USA Arsenal},
   biosite_slides = {#},
 }
 
