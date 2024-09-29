@@ -11,11 +11,11 @@
 }
 ```
 
-# J.&nbsp;Doe
+# Minghao Lin
 
 <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of J. Doe" width="160" height="160" style="max-width: 160px;" /></figure>
 
-I’m a second-year Ph.D. student in unknown discipline, advised by [unknown professor](https://example.com/). I am interested in some unknown specialized sub-area.
+I’m a second-year xxxx in unknown discipline, advised by [unknown professor](https://example.com/). I am interested in some unknown specialized sub-area.
 
 Prior to joining [unknown current university](https://example.com/), I obtained my bachelor’s degree from [unknown previous university](https://example.com/).
 
