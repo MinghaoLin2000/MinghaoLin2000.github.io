@@ -1,8 +1,8 @@
 ```bio-meta
 {
     "name": "Minghao Lin",
-    "title": "Minghao Lin | Curriculum Vitae",
-    "description": "Minghao Lin&#8217;s curriculum vitae.",
+    "title": "Minghao Lin",
+    "description": "Minghao Lin",
     "url": "https://GeeLaw.github.io/bio-site/",
     "assets": "https://GeeLaw.github.io/bio-site/assets",
     "date-created": "2020-04-21",
@@ -13,13 +13,11 @@
 
 # Minghao Lin
 
-<figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/hero-image.jpg" alt="A photo of J. Doe" width="160" height="160" style="max-width: 160px;" /></figure>
+<figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/self.jpg" alt="A photo of J. Doe" width="400" height="160" style="max-width: 300px;" /></figure>
 
-I’m a second-year xxxx in unknown discipline, advised by [unknown professor](https://example.com/). I am interested in some unknown specialized sub-area.
+I was a research assistant at Zhejiang University, advised by [Prof. Wenbo Shen](https://wenboshen.org/). Prior to this, I was a visiting scholar at the University of Colorado Boulder, advised by [Prof. Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/). I obtained my bachelor’s degree from Jiangxi Normal University at 2022.
 
-Prior to joining [unknown current university](https://example.com/), I obtained my bachelor’s degree from [unknown previous university](https://example.com/).
-
-I can be reached at <span id="_eml" class="gl-eml">someone at example dot com</span>.
+I can be reached at <span id="_eml" class="gl-eml">yenkoclike@gmail.com</span>.
 
 ```bio-remove
 Below we use a simple mechanism to mitigate email address reaping.
