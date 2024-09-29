@@ -37,9 +37,7 @@ eml.removeAttribute('class');
 </script>
 [bio]-->
 
-This is an example personal homepage built with [bio-site](https://github.com/GeeLaw/bio-site). It features simplicity and integration with BibTeX.
-
-## Building Blocks
+## Academic Publications (* represent equal contribution)
 
 ```blog-bib
 
@@ -54,13 +52,11 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 }
 
 @online{GitHub:BibTeXTS,
-  author = {Ji Luo},
-  title = {{B}ib{T}e{X}-{TS}:
-    General-Purpose Format-Preserving {{\BibTeX}} Parser
-    in {T}ype{S}cript ({J}ava{S}cript)},
+  author = {Jiaxun Zhu* and Minghao Lin*, Tingting Yin, Zechao Cai, Yu Wang, Rui Chang, Wenbo Shen},
+  title = CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon,
 
-  biosite_url = {https://github.com/GeeLaw/bibtex-ts},
-  biosite_venue = {GitHub},
+  biosite_url = {},
+  biosite_venue = {2024 ACM SIGSAC Conference on Computer and Communications Security (CCS), October 2024.},
   biosite_slides = {#},
 }
 
