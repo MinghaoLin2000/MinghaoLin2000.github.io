@@ -38,7 +38,7 @@ eml.removeAttribute('class');
 [bio]-->
 
 ## Academic Publications
-#### * indicates equal contribution
+##### * indicates equal contribution
 ```blog-bib
 
 @comment
