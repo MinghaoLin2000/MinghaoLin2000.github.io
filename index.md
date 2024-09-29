@@ -38,7 +38,7 @@ eml.removeAttribute('class');
 [bio]-->
 
 ## Academic Publications
-$\underline{*\ indicates\ equal\ contribution}$
+###### * indicates equal contribution
 ```blog-bib
 
 @comment
@@ -57,7 +57,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 
   biosite_url = {},
   biosite_venue = {2024 ACM SIGSAC Conference on Computer and Communications Security (CCS)},
-  biosite_slides = {#},
+  
 }
 
 @online{GitHub:Marked,
@@ -66,7 +66,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 
   biosite_url = {https://www.ndss-symposium.org/ndss-paper/auto-draft-409/},
   biosite_venue = {2023 Workshop on the Security of Space and Satellite Systems (SpaceSec)},
-  biosite_demo = {#},
+  biosite_slides = {#},
 }
 
 @online{GitHub:KaTeX,
