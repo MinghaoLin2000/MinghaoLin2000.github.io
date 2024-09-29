@@ -1,8 +1,8 @@
 ```bio-meta
 {
-    "name": "J. Doe",
-    "title": "J. Doe | Curriculum Vitae",
-    "description": "J. Doe&#8217;s curriculum vitae.",
+    "name": "Minghao Lin",
+    "title": "Minghao Lin | Curriculum Vitae",
+    "description": "Minghao Lin&#8217;s curriculum vitae.",
     "url": "https://GeeLaw.github.io/bio-site/",
     "assets": "https://GeeLaw.github.io/bio-site/assets",
     "date-created": "2020-04-21",
