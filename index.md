@@ -50,10 +50,10 @@ It is possible to have multiple BibTeX blocks, which will be rendered independen
 To support more information links (e.g., add "slides" or "pdf" links),
 see "builder/marked.0.3.6/bibtex-service.js" line 109.
 }
-
+* represents equal contribution/co-first author.
 @online{GitHub:BibTeXTS,
   author = {Jiaxun Zhu* and Minghao Lin*, Tingting Yin, Zechao Cai, Yu Wang, Rui Chang, Wenbo Shen},
-  title = CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon,
+  title = {CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon},
 
   biosite_url = {},
   biosite_venue = {2024 ACM SIGSAC Conference on Computer and Communications Security (CCS), October 2024.},
