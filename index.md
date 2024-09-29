@@ -56,16 +56,16 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
   title = {CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon},
 
   biosite_url = {},
-  biosite_venue = {2024 ACM SIGSAC Conference on Computer and Communications Security (CCS), October 2024.},
+  biosite_venue = {2024 ACM SIGSAC Conference on Computer and Communications Security (CCS)},
   biosite_slides = {#},
 }
 
 @online{GitHub:Marked,
-  author = {Christopher Jeffrey and others},
-  title = {Marked: A {M}arkdown Parser and Compiler Built for Speed},
+  author = {Minghao Lin and Minghao Cheng and Dongsheng Luo and Yueqi Chen},
+  title = {CLExtract: Recovering Highly Corrupted DVB/GSE Satellite Stream with Contrastive Learning},
 
-  biosite_url = {https://github.com/markedjs/marked},
-  biosite_venue = {GitHub},
+  biosite_url = {https://www.ndss-symposium.org/ndss-paper/auto-draft-409/},
+  biosite_venue = {2023 Workshop on the Security of Space and Satellite Systems (SpaceSec)},
   biosite_demo = {https://marked.js.org/demo/},
 }
 
