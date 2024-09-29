@@ -38,9 +38,10 @@ eml.removeAttribute('class');
 [bio]-->
 
 ## Experiences
-```blog-bib
-\textbf{This is a single line of text.}
-```
+2023 9 1 - 2024 6 15 Research Assistant, advised by Prof. Wenbo Shen   
+2023 1 15 - 2023 8 15 Visiting Scholar, advised by Prof. Yueqi Chen
+2022 1 10 - 2023 1 10 Security Engineer at NIO
+
 
 ## Academic Publications
 ###### * indicates equal contribution
