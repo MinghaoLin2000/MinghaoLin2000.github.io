@@ -3,10 +3,10 @@
     "name": "Minghao Lin",
     "title": "Minghao Lin",
     "description": "Minghao Lin",
-    "url": "https://GeeLaw.github.io/bio-site/",
-    "assets": "https://GeeLaw.github.io/bio-site/assets",
+    "url": "https://MinghaoLin2000.github.io/bio-site/",
+    "assets": "https://MinghaoLin2000.github.io/bio-site/assets",
     "date-created": "2020-04-21",
-    "repo": "https://github.com/GeeLaw/bio-site",
+    "repo": "https://github.com/MinghaoLin2000/MinghaoLin2000.github.io",
     "tilecolor": "#f2f2f2"
 }
 ```
