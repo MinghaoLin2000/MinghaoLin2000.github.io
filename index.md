@@ -69,20 +69,11 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
   biosite_slides = {#},
 }
 
-@online{GitHub:KaTeX,
-  author = {Khan Academy and others},
-  title = "{{\KaTeX}}: Fast Math Typesetting for the Web",
-
-  biosite_url = {https://github.com/KaTeX/KaTeX},
-  biosite_venue = {GitHub},
-  biosite_demo = {https://katex.org/},
-}
-
 ```
 ## Industrial Publications
 ```blog-bib
 @online{GitHub:BibTeXTS,
-  author = {Minghao Lin and Zicheng Wang and Jiahe Wang and Chaoyang Lin and Minghang Shen and Yueqi Chen},
+  author = {\textbf{Minghao Lin} and Zicheng Wang and Jiahe Wang and Chaoyang Lin and Minghang Shen and Yueqi Chen},
   title = {Kill Latest MPU-based Protections in Just One Shot: Targeting All Commodity RTOSes},
 
   biosite_url = {https://www.blackhat.com/us-23/briefings/schedule/#kill-latest-mpu-based-protections-in-just-one-shot-targeting-all-commodity-rtoses-32733},
@@ -100,15 +91,6 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
   biosite_url = {https://www.blackhat.com/us-23/arsenal/schedule/#clextract-an-end-to-end-tool-decoding-highly-corrupted-satellite-stream-from-eavesdropping-31622},
   biosite_venue = {2023 BlackHat USA Arsenal},
   biosite_slides = {#},
-}
-
-@online{GitHub:KaTeX,
-  author = {Khan Academy and others},
-  title = "{{\KaTeX}}: Fast Math Typesetting for the Web",
-
-  biosite_url = {https://github.com/KaTeX/KaTeX},
-  biosite_venue = {GitHub},
-  biosite_demo = {https://katex.org/},
 }
 
 ```
