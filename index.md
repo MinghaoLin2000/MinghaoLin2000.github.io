@@ -17,7 +17,7 @@
 
 I was a research assistant at Zhejiang University, advised by [Prof. Wenbo Shen](https://wenboshen.org/). Prior to this, I was a visiting scholar at the University of Colorado Boulder, advised by [Prof. Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/). I obtained my bachelor’s degree from Jiangxi Normal University at 2022.
 
-I can be reached at <span id="_eml" class="gl-eml">yenkoclike@gmail.com</span>.
+I can be reached at yenkoclike@gmail.com.
 
 ```bio-remove
 Below we use a simple mechanism to mitigate email address reaping.
