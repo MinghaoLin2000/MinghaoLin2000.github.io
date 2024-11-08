@@ -16,7 +16,7 @@
 <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/self2.jpg" alt="A photo of J. Doe" width="150" height="200" style="max-width: 300px;" /></figure>
 
 I am an independent security researcher. I was a research assistant at Zhejiang University, advised by [Prof. Wenbo Shen](https://wenboshen.org/). Prior to this, I was a visiting scholar at the University of Colorado Boulder, advised by [Prof. Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/). I also worked closely with [Prof. Mingxue Zhang](https://zhangmx1997.github.io/) at Zhejiang University. I obtained my bachelor’s degree from Jiangxi Normal University at 2022.
-During university, I founded the [Hyacinth Information Security Studio (JXNUSEC)](https://www.jxnusec.cn/index.html) to encourage more undergraduate and graduate students to engage in the field of cybersecurity. As a security researcher, I have discovered [numerous bugs](#bugs) in well-known targets, receiving credits and bounties from various vendors.
+During university, I founded the [Hyacinth Information Security Studio (JXNUSEC)](https://www.jxnusec.cn/index.html) to encourage more undergraduate and graduate students to engage in the field of cybersecurity. As a security researcher, I have discovered [numerous bugs](####bugs) in well-known targets, receiving credits and bounties from various vendors.
 
 
 I can be reached at yenkoclike@gmail.com.
@@ -113,7 +113,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 
 ```
 
-## Bugs
+# Bugs
 ### Well-known Operate Systems (macOS/iOS/Windows/Android)
 - CVE-2024-40788, CVE-2024-27826, [Multiple Apple Neutral Engine Compiler Errors]([https://support.apple.com/en-us/121238), CVE-2024-43533, CVE-2024-20136, CVE-2024-20116, CVE-2024-20107, CVE-2024-20097, CVE-2024-20096, CVE-2024-20095, CVE-2024-20093, CVE-2024-20092, CVE-2024-20091, CVE-2024-20090, CVE-2024-20088, CVE-2024-20083, CVE-2024-20013, CVE-2023-32876, CVE-2023-32875, CVE-2023-32873, CVE-2023-32872, CVE-2023-32821, CVE-2023-32819, CVE-2023-32818, CVE-2023-20833, CVE-2023-20823, CVE-2023-20780, CVE-2023-20759, CVE-2023-20758, CVE-2023-20757, CVE-2023-20755, CVE-2023-20711, CVE-2023-20708, CVE-2023-20635, CVE-2023-20634  
 
@@ -125,7 +125,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 
 ##### Credits: [Jiaxun Zhu](https://pricx.github.io/), [Xilong Zhang@Resery](https://github.com/Resery), [Mas0n](https://x.com/mas0nshi), [peanuts](https://github.com/peanuts62), [Cylin](https://github.com/lcyfrank), who collaborated with me to find these bugs. 
 
-## Main Awards as A Core Member
+# Main Awards as A Core Member
 • 2024 Geekcon AVSS Contest International Final, 1st, $3000  
 • 2023 DataCon Big Data Vulnerability Analysis Track, 2st, $4000   
 • 2022 DataCon Big Data IOT Security Track Online, 1st, $2500    
