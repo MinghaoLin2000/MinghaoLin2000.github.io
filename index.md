@@ -112,3 +112,12 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 
 ```
 
+## Bugs
+### macOS/iOS
+- CVE-2024-40788
+- CVE-2024-27826
+- [https://support.apple.com/en-us/121238](Multiple Apple Neutral Engine Compiler Null Pointer)
+### Windows
+- CVE-2024-43533
+
+
