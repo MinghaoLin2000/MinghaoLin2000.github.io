@@ -120,7 +120,9 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 - CVE-2020-19667, CVE-2020-19668, CVE-2020-28877, CVE-2020-28373, CVE-2020-19662, CVE-2020-19664, CVE-2020-19663, CVE-2020-14993, CVE-2020-15415, CVE-2021-31755, CVE-2021-31757, CVE-2022-30472, CVE-2022-30473, CVE-2022-30474, CVE-2022-30475, CVE-2022-30476, CVE-2022-30477, CVE-2022-20842  
 
 ### Open source Projects
-- [PDF-Writer \#278](https://github.com/galkahana/PDF-Writer/issues/278), [PDF-Writer \#279](https://github.com/galkahana/PDF-Writer/issues/279), [mac \#19](https://github.com/felixangell/mac/issues/19), [mac \#20](https://github.com/felixangell/mac/issues/20), [mac \#21](https://github.com/felixangell/mac/issues/21)
+- [PDF-Writer \#278](https://github.com/galkahana/PDF-Writer/issues/278), [PDF-Writer \#279](https://github.com/galkahana/PDF-Writer/issues/279), [mac \#19](https://github.com/felixangell/mac/issues/19), [mac \#20](https://github.com/felixangell/mac/issues/20), [mac \#21](https://github.com/felixangell/mac/issues/21)  
+
+Credits: [Jiaxun Zhu](https://pricx.github.io/), [Xilong Zhang@Resery](https://github.com/Resery), [peanuts](https://github.com/peanuts62), [Cylin](https://github.com/lcyfrank), who collaborated with me to find these bugs. 
 
 
 
