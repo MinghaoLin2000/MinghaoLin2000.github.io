@@ -16,7 +16,7 @@
 <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/self2.jpg" alt="A photo of J. Doe" width="150" height="200" style="max-width: 300px;" /></figure>
 
 I am an independent security researcher. I was a research assistant at Zhejiang University, advised by [Prof. Wenbo Shen](https://wenboshen.org/). Prior to this, I was a visiting scholar at the University of Colorado Boulder, advised by [Prof. Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/). I also worked closely with [Prof. Mingxue Zhang](https://zhangmx1997.github.io/) at Zhejiang University. I obtained my bachelor’s degree from Jiangxi Normal University at 2022.
-During university, I founded the [Hyacinth Information Security Studio (JXNUSEC)](https://www.jxnusec.cn/index.html) to encourage more undergraduate and graduate students to engage in the field of cybersecurity. As a security researcher, I have uncovered many bugs in many well-known targets and received credits and bounty from these vendors. 
+During university, I founded the [Hyacinth Information Security Studio (JXNUSEC)](https://www.jxnusec.cn/index.html) to encourage more undergraduate and graduate students to engage in the field of cybersecurity. As a security researcher, I have discovered [numerous bugs](#bugs) in well-known targets, receiving credits and bounties from various vendors.
 
 
 I can be reached at yenkoclike@gmail.com.
