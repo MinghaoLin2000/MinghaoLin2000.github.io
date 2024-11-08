@@ -124,6 +124,12 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 
 ##### Credits: [Jiaxun Zhu](https://pricx.github.io/), [Xilong Zhang@Resery](https://github.com/Resery), [Mas0n](https://x.com/mas0nshi), [peanuts](https://github.com/peanuts62), [Cylin](https://github.com/lcyfrank), who collaborated with me to find these bugs. 
 
-
-
-
+## Main Awards as A Core Member
+• 2024 Geekcon AVSS Contest International Final, 1st, $3000  
+• 2023 DataCon Big Data Vulnerability Analysis Track, 2st, $4000 
+• 2022 DataCon Big Data IOT Security Track Online, 1st, $1500  
+• 2022 Tencent Game Security CTF Final, 6th  
+• 2021 National Industrial Internet CTF Student Group, 1st, $4000  
+• 2021 Jiangxi Industrial Internet Provincial CTF, 1st, $3000  
+• 2021 Jiangxi College Student Network Security Competition, 1st, $700  
+• 2021 National offensive and defensive drills (with Tencent attack team), 1st  
