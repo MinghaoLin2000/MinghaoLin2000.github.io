@@ -102,7 +102,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
   biosite_slides = {#},
 }
 @online{GitHub:Marked,
-  author = {Minghang Shen and Chaoyang Lin, \textbf{Minghao Lin} and Qi Fan},
+  author = {Minghang Shen and Chaoyang Lin and \textbf{Minghao Lin} and Qi Fan},
   title = {RTHunter:the High-Accuracy Reverse Symbol Recovery and Vulnerability Scanning Tool},
 
   biosite_url = {https://www.blackhat.com/asia-23/arsenal/schedule/#rthunterthe-high-accuracy-reverse-symbol-recovery-and-vulnerability-scanning-tool-30612},
