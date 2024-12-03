@@ -17,13 +17,13 @@
 
 I am an independent security researcher. I was a research assistant at Zhejiang University, advised by [Prof. Wenbo Shen](https://wenboshen.org/). Prior to this, I was a visiting scholar at the University of Colorado Boulder, advised by [Prof. Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/). I also worked closely with [Prof. Mingxue Zhang](https://zhangmx1997.github.io/) at Zhejiang University. I obtained my bachelor’s degree from Jiangxi Normal University at 2022.  
 
-During university, as a CTF enthusiast, I founded the [Hyacinth Information Security Studio (JXNUSEC)](http://124.220.36.188/index.html) to officially represent my university to participate CTF contest. Each year, the team provides cybersecurity training to students across the university and selects new members, aiming to inspire more undergraduates and graduates to join the cybersecurity field. Our team has grown to 30 members. Thanks to our competition achievements, **we successfully advocated for cybersecurity competitions to be included in graduate school bonus points and contributed to the establishment of a cybersecurity major in the college.** 
+During university, as a CTF enthusiast, I founded the [Hyacinth Information Security Studio (JXNUSEC)](http://124.220.36.188/index.html) to officially represent my university to participate CTF contest. Each year, the team provides cybersecurity training to students across the university and selects new members, aiming to inspire more undergraduates and graduates to join the cybersecurity field. Our team has grown to 30 members. Thanks to our competition achievements, **we advocated for cybersecurity competitions to be added points for postgraduate study and contributed to the establishment of a cybersecurity major in the college.** 
 
-My research focuses on system security, targeting different targets from small devices to operating systems. I thoroughly enjoy understanding how a system is built, which drives my interest in exploring open-source code and using my reverse engineering skills, honed in CTF competitions, to analyze closed-source systems. Based on this understanding, I approach systems from three perspectives: attack, defense, and optimization, uncovering new challenges. In my previous work, I focused heavily on attack existing systems, but I am now shifting toward building a secure and efficient system. 
+My research focuses on system/architect security, targeting different targets from small devices to operating systems. I thoroughly enjoy understanding how a system is built, which drives my interest in exploring open-source code and using my reverse engineering skills, honed in CTF competitions, to analyze closed-source systems. Based on this understanding, I approach systems from three perspectives: attack, defense, and optimization, uncovering new challenges. In my previous work, I focused heavily on attack existing systems, but I am now shifting toward building a secure and efficient system. 
 
 So far, I have discovered **[numerous bugs](#bugs)** in well-known targets, **receiving over 70 CVEs and $30000 from various vendors (Apple/MicroSoft/Amazon/Google)**.
 
-
+**I am applying for a PhD position.**
 I can be reached at yenkoclike@gmail.com.
 
 ```bio-remove
