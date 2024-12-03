@@ -15,8 +15,13 @@
 
 <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/self2.jpg" alt="A photo of J. Doe" width="150" height="200" style="max-width: 300px;" /></figure>
 
-I am an independent security researcher. I was a research assistant at Zhejiang University, advised by [Prof. Wenbo Shen](https://wenboshen.org/). Prior to this, I was a visiting scholar at the University of Colorado Boulder, advised by [Prof. Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/). I also worked closely with [Prof. Mingxue Zhang](https://zhangmx1997.github.io/) at Zhejiang University. I obtained my bachelor’s degree from Jiangxi Normal University at 2022.
-During university, I founded the [Hyacinth Information Security Studio (JXNUSEC)](https://www.jxnusec.cn/index.html) to encourage more undergraduate and graduate students to engage in the field of cybersecurity. As a security researcher, I have discovered [numerous bugs](#bugs) in well-known targets, receiving credits and bounties from various vendors.
+I am an independent security researcher. I was a research assistant at Zhejiang University, advised by [Prof. Wenbo Shen](https://wenboshen.org/). Prior to this, I was a visiting scholar at the University of Colorado Boulder, advised by [Prof. Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/). I also worked closely with [Prof. Mingxue Zhang](https://zhangmx1997.github.io/) at Zhejiang University. I obtained my bachelor’s degree from Jiangxi Normal University at 2022.  
+
+During university, as a CTF enthusiast, I founded the [Hyacinth Information Security Studio (JXNUSEC)](http://124.220.36.188/index.html) to officially represent my university to participate CTF contest. Each year, the team provides cybersecurity training to students across the university and selects new members, aiming to inspire more undergraduates and graduates to join the cybersecurity field. Our team has grown to 30 members. Thanks to our competition achievements, we successfully advocated for cybersecurity competitions to be included in graduate school bonus points and contributed to the establishment of a cybersecurity major in the college. 
+
+My research focuses on system security, targeting different targets from small devices to operating systems. I thoroughly enjoy understanding how a system is built, which drives my interest in exploring open-source code and using my reverse engineering skills, honed in CTF competitions, to analyze closed-source systems. Based on this understanding, I approach systems from three perspectives: attack, defense, and optimization, uncovering new challenges. In my previous work, I focused heavily on attack existing systems, but I am now shifting toward building a secure and efficient system. 
+
+So far, I have discovered [numerous bugs](#bugs) in well-known targets, receiving over 70CVEs and $30000 from various vendors (Apple/MicroSoft/Amazon/Google).
 
 
 I can be reached at yenkoclike@gmail.com.
@@ -115,7 +120,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 
 ## Bugs
 ### Well-known Operate Systems (macOS/iOS/Windows/Android)
-- CVE-2024-40788, CVE-2024-27826, [Multiple Apple Neutral Engine Compiler Errors]([https://support.apple.com/en-us/121238), CVE-2024-43533, CVE-2024-20136, CVE-2024-20116, CVE-2024-20107, CVE-2024-20097, CVE-2024-20096, CVE-2024-20095, CVE-2024-20093, CVE-2024-20092, CVE-2024-20091, CVE-2024-20090, CVE-2024-20088, CVE-2024-20083, CVE-2024-20013, CVE-2023-32876, CVE-2023-32875, CVE-2023-32873, CVE-2023-32872, CVE-2023-32821, CVE-2023-32819, CVE-2023-32818, CVE-2023-20833, CVE-2023-20823, CVE-2023-20780, CVE-2023-20759, CVE-2023-20758, CVE-2023-20757, CVE-2023-20755, CVE-2023-20711, CVE-2023-20708, CVE-2023-20635, CVE-2023-20634  
+- CVE-2024-40788, CVE-2024-27826, [Multiple Apple Neural Engine Compiler Errors](https://support.apple.com/en-us/121238), CVE-2024-43533, CVE-2024-20136, CVE-2024-20116, CVE-2024-20107, CVE-2024-20097, CVE-2024-20096, CVE-2024-20095, CVE-2024-20093, CVE-2024-20092, CVE-2024-20091, CVE-2024-20090, CVE-2024-20088, CVE-2024-20083, CVE-2024-20013, CVE-2023-32876, CVE-2023-32875, CVE-2023-32873, CVE-2023-32872, CVE-2023-32821, CVE-2023-32819, CVE-2023-32818, CVE-2023-20833, CVE-2023-20823, CVE-2023-20780, CVE-2023-20759, CVE-2023-20758, CVE-2023-20757, CVE-2023-20755, CVE-2023-20711, CVE-2023-20708, CVE-2023-20635, CVE-2023-20634  
 
 ### IOT Devices (FreeRTOS, TP-Link, D- Link, Tenda, Fast, MERCURY, DrayTek, SonicWall, Cisco, AMD)
 - CVE-2024-28115, CVE-2022-30472, CVE-2022-30473, CVE-2022-30474, CVE-2022-30475, CVE-2022-30476, CVE-2022-30477, CVE-2022-20842, CVE-2021-31755, CVE-2021-31757, CVE-2020-19667, CVE-2020-19668, CVE-2020-28877, CVE-2020-28373, CVE-2020-19662, CVE-2020-19664, CVE-2020-19663, CVE-2020-14993, CVE-2020-15415
