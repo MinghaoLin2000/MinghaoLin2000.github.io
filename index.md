@@ -44,6 +44,9 @@ eml.removeAttribute('class');
 </script>
 [bio]-->
 
+## News
+- [2024 12 6] JXNUSEC website has changed domain name to https://www.jxnusec.cn/
+- [2024 12 5] [I ranked first on the Butian src November vulnerability list](https://www.butian.net/Rank/whitehat###) with $3700 
 ## Experiences
 2023.09 - 2024.06 Research Assistant, Zhejiang University, advised by Prof. Wenbo Shen   
 2023.01 - 2023.08 Visiting Scholar, The University of Colorado Boulder, advised by Prof. Yueqi Chen  
@@ -128,7 +131,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 ### Open source Projects
 - [PDF-Writer \#278](https://github.com/galkahana/PDF-Writer/issues/278), [PDF-Writer \#279](https://github.com/galkahana/PDF-Writer/issues/279), [mac \#19](https://github.com/felixangell/mac/issues/19), [mac \#20](https://github.com/felixangell/mac/issues/20), [mac \#21](https://github.com/felixangell/mac/issues/21)  
 
-##### Credits: [Jiaxun Zhu](https://pricx.github.io/), [Xilong Zhang@Resery](https://github.com/Resery), [Mas0n](https://x.com/mas0nshi), [peanuts](https://github.com/peanuts62), [Cylin](https://github.com/lcyfrank), who collaborated with me to find these bugs. 
+###### Credits: [Jiaxun Zhu](https://pricx.github.io/), [Xilong Zhang@Resery](https://github.com/Resery), [Mas0n](https://x.com/mas0nshi), [peanuts](https://github.com/peanuts62), [Cylin](https://github.com/lcyfrank), who collaborated with me to find these bugs. 
 
 ## Main Awards as A Core Member
 • 2024 Geekcon AVSS Contest International Final, 1st, $3000  
