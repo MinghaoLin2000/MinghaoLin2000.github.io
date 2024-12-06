@@ -46,7 +46,8 @@ eml.removeAttribute('class');
 
 ## News
 - [2024 12 6] JXNUSEC website has changed domain name to https://www.jxnusec.cn/
-- [2024 12 5] [I ranked first on the Butian src November vulnerability list](https://www.butian.net/Rank/whitehat###) with $3700 
+- [2024 12 5] [I ranked first on the Butian src November vulnerability list](https://www.butian.net/Rank/whitehat###) with $3700  
+
 ## Experiences
 2023.09 - 2024.06 Research Assistant, Zhejiang University, advised by Prof. Wenbo Shen   
 2023.01 - 2023.08 Visiting Scholar, The University of Colorado Boulder, advised by Prof. Yueqi Chen  
