@@ -45,6 +45,7 @@ eml.removeAttribute('class');
 [bio]-->
 
 ## News
+- [2024 12 12] Collaborating with my teammate XiLong, I got another CVE ([CVE-2024-20116](https://corp.mediatek.com/product-security-acknowledgements)) in Meditek (Third party Android driver). Thanks to Mediatek and my team. 
 - [2024 12 11] I received my second CVE ([CVE-2024-49107](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49107)) in Windows. Many thanks to Microsoft for the recognition!
 - [2024 12 6] JXNUSEC website has changed domain name to https://www.jxnusec.cn/
 - [2024 12 5] [I ranked second on the Butian src November vulnerability list](https://www.butian.net/Rank/whitehat###) with ¥24000 
@@ -125,9 +126,9 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 
 ## Bugs
 ### Well-known Operate Systems (macOS/iOS/Windows/Android)
-- CVE-2024-49107, CVE-2024-40788, CVE-2024-27826, [Multiple Apple Neural Engine Compiler Errors](https://support.apple.com/en-us/121238), CVE-2024-43533, CVE-2024-20136, CVE-2024-20116, CVE-2024-20107, CVE-2024-20097, CVE-2024-20096, CVE-2024-20095, CVE-2024-20093, CVE-2024-20092, CVE-2024-20091, CVE-2024-20090, CVE-2024-20088, CVE-2024-20083, CVE-2024-20013, CVE-2023-32876, CVE-2023-32875, CVE-2023-32873, CVE-2023-32872, CVE-2023-32821, CVE-2023-32819, CVE-2023-32818, CVE-2023-20833, CVE-2023-20823, CVE-2023-20780, CVE-2023-20759, CVE-2023-20758, CVE-2023-20757, CVE-2023-20755, CVE-2023-20711, CVE-2023-20708, CVE-2023-20635, CVE-2023-20634  
+- CVE-2024-20116, CVE-2024-49107, CVE-2024-40788, CVE-2024-27826, [Multiple Apple Neural Engine Compiler Errors](https://support.apple.com/en-us/121238), CVE-2024-43533, CVE-2024-20136, CVE-2024-20116, CVE-2024-20107, CVE-2024-20097, CVE-2024-20096, CVE-2024-20095, CVE-2024-20093, CVE-2024-20092, CVE-2024-20091, CVE-2024-20090, CVE-2024-20088, CVE-2024-20083, CVE-2024-20013, CVE-2023-32876, CVE-2023-32875, CVE-2023-32873, CVE-2023-32872, CVE-2023-32821, CVE-2023-32819, CVE-2023-32818, CVE-2023-20833, CVE-2023-20823, CVE-2023-20780, CVE-2023-20759, CVE-2023-20758, CVE-2023-20757, CVE-2023-20755, CVE-2023-20711, CVE-2023-20708, CVE-2023-20635, CVE-2023-20634  
 
-### IOT Devices (FreeRTOS, TP-Link, D- Link, Tenda, Fast, MERCURY, DrayTek, SonicWall, Cisco, AMD)
+### IOT Devices (FreeRTOS/TP-Link/D-Link/Tenda/Fast/MERCURY/SonicWall/Cisco/AMD)
 - CVE-2024-28115, CVE-2022-30472, CVE-2022-30473, CVE-2022-30474, CVE-2022-30475, CVE-2022-30476, CVE-2022-30477, CVE-2022-20842, CVE-2021-31755, CVE-2021-31757, CVE-2020-19667, CVE-2020-19668, CVE-2020-28877, CVE-2020-28373, CVE-2020-19662, CVE-2020-19664, CVE-2020-19663, CVE-2020-14993, CVE-2020-15415
 
 ### Open source Projects
