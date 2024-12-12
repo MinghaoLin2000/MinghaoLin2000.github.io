@@ -21,7 +21,7 @@ During university, as a CTF enthusiast, I founded the [Hyacinth Information Secu
 
 My research focuses on system/architect security, targeting different targets from small devices to operating systems. I thoroughly enjoy understanding how a system is built, which drives my interest in exploring open-source code and using my reverse engineering skills, honed in CTF competitions, to analyze closed-source systems. Based on this understanding, I approach systems from three perspectives: attack, defense, and optimization, uncovering new challenges. In my previous work, I focused heavily on attack existing systems, but I am now shifting toward building a secure and efficient system. 
 
-So far, I have discovered **[numerous bugs](#bugs)** in well-known targets with my teammates and friends, **receiving over 70 CVEs and $30000 from various vendors (Apple/MicroSoft/Amazon/Google)**.
+So far, I have discovered **[numerous bugs](#bugs)** in well-known targets with my teammates and friends, **receiving over 70 CVEs and $30000 from various vendors (Apple/Microsoft/Amazon/Google)**.
 
 **I am applying for a PhD position.**
 I can be reached at yenkoclike@gmail.com.
