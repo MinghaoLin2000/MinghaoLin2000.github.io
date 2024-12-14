@@ -19,9 +19,15 @@ Now I am an independent security researcher who is a member of [Terminal OS Arch
 
 During university, as a CTF enthusiast, I founded the [Hyacinth Information Security Studio (JXNUSEC)](https://www.jxnusec.cn) to officially represent my university to participate CTF contest. Each year, the team provides cybersecurity training to students across the university and selects new members, aiming to inspire more undergraduates and graduates to join the cybersecurity field. Our team has grown to 30 members. Thanks to our competition achievements, **we advocated for cybersecurity competitions to be added points for postgraduate study and contributed to the establishment of a cybersecurity major in the college.** 
 
-My research focuses on system/architect security, targeting different targets from small devices to operating systems. I thoroughly enjoy understanding how a system is built, which drives my interest in exploring open-source code and using my reverse engineering skills, honed in CTF competitions, to analyze closed-source systems. Based on this understanding, I approach systems from three perspectives: attack, defense, and optimization, uncovering new challenges. In my previous work, I focused heavily on attack existing systems, but I am now shifting toward building a secure and efficient system. 
+My research focuses on system/architecture security, targeting different targets from small devices to operating systems. I thoroughly enjoy understanding how a system is built, which drives my interest in exploring open-source code and using my reverse engineering skills, honed in CTF competitions, to analyze closed-source systems. Based on this understanding, I approach systems from three perspectives: attack, defense, and optimization, uncovering new challenges. In my previous work, I focused heavily on attack existing systems, but I am now shifting toward building a secure and efficient system. 
 
-So far, I have discovered **[numerous bugs](#bugs)** in well-known targets with my teammates and friends, **receiving over 70 CVEs and $30000 from various vendors (Apple/Microsoft/Amazon/Google)**.
+So far, I have discovered **[numerous bugs](#bugs)** in well-known targets with my teammates and friends, **receiving over 70 CVEs and $30000 from various vendors (Apple/Microsoft/Amazon/Google)**. 
+
+I also enjoy sharing my skills with the security community. I’ve written several writeups detailing techniques for hacking mobile games and tackling complex obfuscations during reverse engineering. Two of my most viewed writeups are listed below:
+- [2022 Tencent Game Security Competition Android Client Finals Writeup](https://bbs.kanxue.com/thread-272519.htm)
+- [2022 Tencent Game Security Competition Android Client Preliminary Writeup](https://bbs.kanxue.com/thread-272518.htm)
+- 
+
 
 **I am applying for a PhD position.**
 I can be reached at yenkoclike@gmail.com.
@@ -77,7 +83,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
   author = {Jiaxun Zhu* and \textbf{Minghao Lin*} and Tingting Yin and Zechao Cai and Yu Wang and Rui Chang and Wenbo Shen},
   title = {CrossFire: Fuzzing macOS Cross-XPU Memory on Apple Silicon},
 
-  biosite_url = {https://dl.acm.org/doi/abs/10.1145/3658644.3690376},
+  biosite_url = {https://dl.acm.org/doi/pdf/10.1145/3658644.3690376},
   biosite_venue = {2024 ACM SIGSAC Conference on Computer and Communications Security (CCS)},
   
 }
@@ -98,7 +104,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
   author = {\textbf{Minghao Lin} and Zicheng Wang and Jiahe Wang and Chaoyang Lin and Minghang Shen and Yueqi Chen},
   title = {Kill Latest MPU-based Protections in Just One Shot: Targeting All Commodity RTOSes},
 
-  biosite_url = {https://www.blackhat.com/us-23/briefings/schedule/#kill-latest-mpu-based-protections-in-just-one-shot-targeting-all-commodity-rtoses-32733},
+  biosite_url = {https://i.blackhat.com/BH-US-23/Presentations/US-23-Lin-Briefing-Kill-Latest-MPU-based-Protections.pdf?_gl=1*1n8hdi5*_gcl_au*MTE5MTI2MDA5MS4xNzM0MTgzNjA4*_ga*NTI2MDE5OTQuMTcyNjM2MjUyMw..*_ga_K4JK67TFYV*MTczNDE4MzYwOC4zMi4wLjE3MzQxODM2MDguMC4wLjA.&_ga=2.79037277.890255411.1734183609-52601994.1726362523},
   biosite_venue = {2023 BlackHat USA Briefing},
   biosite_demo = {https://github.com/MinghaoLin2000/TrampolineFuncAnalyzer4FreeRTOS},
   biosite_slides = {https://i.blackhat.com/BH-US-23/Presentations/US-23-Lin-Briefing-Kill-Latest-MPU-based-Protections.pdf},
@@ -141,7 +147,7 @@ see "builder/marked.0.3.6/bibtex-service.js" line 109.
 • 2024 Geekcon AVSS Contest International Final, 1st, $3000  
 • 2023 DataCon Big Data Vulnerability Analysis Track, 2st, $4000   
 • 2022 DataCon Big Data IOT Security Track Online, 1st, $2500    
-• 2022 Tencent Game Security CTF Final, 6th  
+• 2022 Tencent Game Security CTF Final, 6th 
 • 2021 National Industrial Internet CTF Student Group, 1st, $4000  
 • 2021 Jiangxi Industrial Internet Provincial CTF, 1st, $3000  
 • 2021 Jiangxi College Student Network Security Competition, 1st, $700  
