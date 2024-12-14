@@ -23,10 +23,9 @@ My research focuses on system/architecture security, targeting different targets
 
 So far, I have discovered **[numerous bugs](#bugs)** in well-known targets with my teammates and friends, **receiving over 70 CVEs and $30000 from various vendors (Apple/Microsoft/Amazon/Google)**. 
 
-I also enjoy sharing my skills with the security community. I’ve written several writeups detailing techniques for hacking mobile games and tackling complex obfuscations during reverse engineering. Two of my most viewed writeups are listed below:
+I also enjoy sharing my skills with the security community. I’ve written several writeups detailing techniques for hacking mobile games and tackling complex obfuscations during reverse engineering. Two of my most viewed writeups are listed below (Chinese version):
 - [2022 Tencent Game Security Competition Android Client Finals Writeup](https://bbs.kanxue.com/thread-272519.htm)
 - [2022 Tencent Game Security Competition Android Client Preliminary Writeup](https://bbs.kanxue.com/thread-272518.htm)
-- 
 
 
 **I am applying for a PhD position.**
