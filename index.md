@@ -45,6 +45,7 @@ eml.removeAttribute('class');
 [bio]-->
 
 ## News
+- [2024 12 14]  With 2K lines of Java code, I implemented three types of Android data flow obfuscations by completing my project. Maybe I'll apply these obfuscations into some CTF challenges. 😂
 - [2024 12 12] Collaborating with my teammate XiLong, I got another CVE ([CVE-2024-20116](https://corp.mediatek.com/product-security-acknowledgements)) in Meditek (Third party Android driver). Thanks to Mediatek and my team. 
 - [2024 12 11] I received my second CVE ([CVE-2024-49107](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49107)) in Windows. Many thanks to Microsoft for the recognition!
 - [2024 12 6] JXNUSEC website has changed domain name to https://www.jxnusec.cn/
