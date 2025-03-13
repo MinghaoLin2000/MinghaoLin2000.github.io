@@ -37,15 +37,6 @@ eml.removeAttribute('class');
 </script>
 [bio]-->
 
-## News
-- [2025 1 28] Got [CVE-2025-24127](https://support.apple.com/zh-cn/122068) from Apple.   
-- [2025 1 10] Hello 2025! I found an interesting attack surface on AppleOS. I found over 20 bugs within that target. I submitted all of them to Apple. Apple have confirmed 17 bugs so far. Other bugs are still reviewing. Waiting for CVE and Bounty😊. BTW, I'm preparing to share this research. Stay tunned! 
-- [2024 12 14]  With 2K lines of Java code, I implemented three types of Android data flow obfuscations by completing my project. Maybe I'll apply these obfuscations into some CTF challenges. 😂
-- [2024 12 12] Collaborating with my teammate XiLong, I got another CVE ([CVE-2024-20116](https://corp.mediatek.com/product-security-acknowledgements)) in Meditek (Third party Android driver). Thanks to Mediatek and my team. 
-- [2024 12 11] I received my second CVE ([CVE-2024-49107](https://msrc.microsoft.com/update-guide/vulnerability/CVE-2024-49107)) in Windows. Many thanks to Microsoft for the recognition!
-- [2024 12 6] JXNUSEC website has changed domain name to https://www.jxnusec.cn/
-- [2024 12 5] [I ranked second on the Butian src November vulnerability list](https://www.butian.net/Rank/whitehat###) with ¥24000 
-
 ## Experiences
 2023.09 - 2024.06 Research Assistant, Zhejiang University, advised by Prof. Wenbo Shen   
 2023.01 - 2023.08 Visiting Scholar, The University of Colorado Boulder, advised by Prof. Yueqi Chen  
