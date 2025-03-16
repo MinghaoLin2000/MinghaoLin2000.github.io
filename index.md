@@ -15,7 +15,7 @@
 
 <figure class="gl-page-background gl-float-right gl-image-box" style="text-align: center;"><img src="assets/images/self2.jpg" alt="A photo of J. Doe" width="150" height="200" style="max-width: 300px;" /></figure>
 
-Now I am an incoming Ph.D. student at the Dept. of Computer Science, the University of Southern California (USC), advised by [Prof. Mengyuan Li](https://mengyuan-l.github.io/). Besides,  I am a member of [Terminal OS Architecture & Security Team (TOAST) ](https://toast-research.github.io/). Previously, I was a research assistant at Zhejiang University, advised by [Prof. Wenbo Shen](https://wenboshen.org/). Prior to this, I was a visiting scholar at the University of Colorado Boulder, advised by [Prof. Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/). I also worked closely with [Prof. Mingxue Zhang](https://zhangmx1997.github.io/) at Zhejiang University. I obtained my bachelor’s degree from Jiangxi Normal University at 2022.  
+I am a member of [Terminal OS Architecture & Security Team (TOAST) ](https://toast-research.github.io/). Previously, I was a research assistant at Zhejiang University, advised by [Prof. Wenbo Shen](https://wenboshen.org/). Prior to this, I was a visiting scholar at the University of Colorado Boulder, advised by [Prof. Yueqi Chen](http://cusecurity.cs.colorado.edu/yueqichen/). I also worked closely with [Prof. Mingxue Zhang](https://zhangmx1997.github.io/) at Zhejiang University. I obtained my bachelor’s degree from Jiangxi Normal University at 2022.  
 
 My research focuses on system/architecture security - Understand it -> Hack it😄. 
 
